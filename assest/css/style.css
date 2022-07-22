@@ -1,0 +1,12 @@
+body{color: #212529;font-family: 'Roboto', sans-serif;font-weight: 300;}
+
+h5{font-size: 20px;
+}
+
+p.span{font-size: 16px;}
+
+.precio{font-size: 20px;font-weight:400;}
+
+.card img{height: 250px;object-position: middle;}
+
+footer{color: black;}
